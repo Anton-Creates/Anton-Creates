@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Anton
+<h1 align="center">👋 Hi, I'm Anton</h1>
 
 <p align="center">
   <a href="https://git.io/typing-svg">
