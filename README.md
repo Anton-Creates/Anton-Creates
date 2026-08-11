@@ -2,7 +2,7 @@
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00F0FF&center=true&vCenter=true&width=600&lines=Senior+IT+Project+%26+Product+Manager;FinTech+%7C+Enterprise+Retail+%7C+Telecom;Building+High-Impact+Digital+Products">
+    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00F0FF&center=true&vCenter=true&width=600&lines=Senior+IT+Product+%26+Project+Manager;FinTech+%7C+Enterprise+Retail+%7C+Telecom;Building+High-Impact+Digital+Products">
     <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=0055FF&center=true&vCenter=true&width=600&lines=Senior+IT+Project+%26+Product+Manager;FinTech+%7C+Enterprise+Retail+%7C+Telecom;Building+High-Impact+Digital+Products">
     <img alt="Typing Subtitle" src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00F0FF&center=true&vCenter=true&width=600&lines=Senior+IT+Project+%26+Product+Manager;FinTech+%7C+Enterprise+Retail+%7C+Telecom;Building+High-Impact+Digital+Products" />
   </picture>
