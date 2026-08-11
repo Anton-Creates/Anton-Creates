@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/%F0%9F%94%84-LOADING-00F0FF?style=for-the-badge&labelColor=0D1117" alt="Loading" />
+  <img src="loading.gif" width="45" alt="Loading" />
 </p>
 
 - 📫 **Connect with me:** [LinkedIn](https://linkedin.com/in/anton-mikhailove) | [Telegram](https://t.me/mikhaylove_anton)
