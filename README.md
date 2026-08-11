@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Anton | Senior IT Product & Project  Manager
+# 👋 Hi, I'm Anton
 
 <p align="center">
   <a href="https://git.io/typing-svg">
