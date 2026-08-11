@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Anton | Senior IT Project & Product Manager
+# 👋 Hi, I'm Anton | Senior IT Product & Project Manager
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00F0FF&center=true&vCenter=true&width=600&lines=Senior+IT+Project+%26+Product+Manager;FinTech+%7C+Enterprise+Retail+%7C+Telecom;Building+High-Impact+Digital+Products" alt="Header" />
