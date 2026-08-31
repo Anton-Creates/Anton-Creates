@@ -13,14 +13,16 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-anton--mikhailove-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/anton-mikhailove)
 [![Telegram](https://img.shields.io/badge/Telegram-mikhaylove__anton-26A5E4?style=flat-square&logo=telegram&logoColor=white)](https://t.me/mikhaylove_anton)
 
-
 ---
 
 ### 🛠️ Tech & Product Stack
 
-<p align="center">
+<p align="center" style="display: flex; align-items: center; justify-content: center; gap: 8px;">
   <img src="https://skillicons.dev/icons?i=python,js,html,css,git,github,vscode,docker,postman,figma,notion&perline=15" alt="Tech Stack" />
+  <img src="https://raw.githubusercontent.com/Anton-Creates/pdm-skills-agent/main/docs/icons/Claude-Dark.svg" width="48" height="48" alt="Claude" title="Claude Code" />
+  <img src="https://raw.githubusercontent.com/Anton-Creates/pdm-skills-agent/main/docs/icons/Antigravity-Dark.svg" width="48" height="48" alt="Antigravity" title="Google Antigravity" />
 </p>
+
 
 ---
 
@@ -43,3 +45,7 @@
     <img alt="Views" src="https://komarev.com/ghpvc/?username=Anton-Creates&label=Profile%20Views&color=00F0FF&style=flat-square" />
   </picture>
 </p>
+
+
+---
+
