@@ -10,7 +10,7 @@
 
 ## 📬 Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-anton--mikhailove-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/anton-mikhailove)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-anton--mikhailove-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/anton-mikhailove)
 [![Telegram](https://img.shields.io/badge/Telegram-mikhaylove__anton-26A5E4?style=flat-square&logo=telegram&logoColor=white)](https://t.me/mikhaylove_anton)
 
 ---
